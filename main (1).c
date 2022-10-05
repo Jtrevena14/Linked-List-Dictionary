@@ -122,7 +122,6 @@ void sortList(node *head, int size) {//Method to sort list using bubble sort giv
   int hold_length; //Holder variables to be used in for loop below.
   int hold_pos;
   int counter;
-  char hold_four[SIZE];
   char hold_word[SIZE];
   while (counter <= size - 1) {
     counter = 0;
